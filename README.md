@@ -12,8 +12,8 @@ Welcome to our Music Player UI project repository! This project is aimed at help
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/your-username/music-player-ui.git`
-2. Navigate to the project directory: `cd music-player-ui`
+1. Clone this repository: `git clone https://github.com/mstechcampus/melodies.git`
+2. Navigate to the project directory: `cd melodies`
 3. Open the `index.html` file in your preferred web browser.
 
 ## Contributing
@@ -28,12 +28,8 @@ We welcome contributions from the community! If you have any ideas for improveme
 
 ## Credits
 
-This project was created by [Your Name](https://github.com/your-username).
+This project was created by [MS Tech Campus].
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-Special thanks to [Name] for inspiration and guidance throughout the development process.
