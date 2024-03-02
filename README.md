@@ -28,7 +28,7 @@ We welcome contributions from the community! If you have any ideas for improveme
 
 ## Credits
 
-This project was created by [MS Tech Campus].
+This project was created by `MS Tech Campus`.
 
 ## License
 
