@@ -3,5 +3,7 @@
 Explore our Music Player UI project! Learn to create a sleek interface with HTML &amp; CSS. Perfect for beginners and seasoned devs. Clone/fork to customize! 🎵 #HTML #CSS
 
 In this project, you will learn to create
-\n-> Navigation Bar
-\n-> Side Nav Bar
+
+-> Navigation Bar
+
+-> Side Nav Bar
